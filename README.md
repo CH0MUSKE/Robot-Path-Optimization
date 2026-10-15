@@ -1,6 +1,8 @@
 # GR4_ALVES_VIEIRA_LU
 Modeling a robot's "walk" through a department store for object transportation.
 
+📄 **[Read the Full Technical Report (PDF) (OG french version)](./report_french_vers.pdf)**
+
 ## 📦 Requirements
 
 - Java 17+
